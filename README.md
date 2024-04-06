@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 📫 How to reach me **lovredzaja@gmail.com**
+- 📫 How to reach me - Drop a message at <a href="https://linkedin.com/in/https://www.linkedin.com/in/lovre-d%c5%beaja-102062233/" target="blank">my LinkedIn</a>
 
 - ⚡ Fun fact **I enjoy creating awesome Web applications, and meeting new more skilled developers for a chance to learn more about tech world!**
 
