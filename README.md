@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 📫 How to reach me - Drop a message at <a href="https://linkedin.com/in/https://www.linkedin.com/in/lovre-d%c5%beaja-102062233/" target="blank">my LinkedIn</a>
+- 📫 How to reach me - Drop a message at <a href="https://www.linkedin.com/in/lovre-d%C5%BEaja-102062233/" target="blank">my LinkedIn</a>
 
 - ⚡ Fun fact **I enjoy creating awesome Web applications, and meeting new more skilled developers for a chance to learn more about tech world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lovre-d%c5%beaja-102062233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovre-d%c5%beaja-102062233/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lovre-d%C5%BEaja-102062233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovre-d%c5%beaja-102062233/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
