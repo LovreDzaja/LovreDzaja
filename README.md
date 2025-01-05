@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovredzaja" alt="lovredzaja" /></a> </p>
 
-- 🔭 I’m currently working on [Map application](https://github.com/LovreDzaja/map-application)
-
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C++ language**
 
 - 📫 How to reach me - Drop a message at <a href="https://www.linkedin.com/in/lovre-d%C5%BEaja-102062233/" target="blank">my LinkedIn</a>
 
