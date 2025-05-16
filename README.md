@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovredzaja" alt="lovredzaja" /></a> </p>
 
-- 🌱 I’m currently learning **C++ language**
-
 - 📫 How to reach me - Drop a message at <a href="https://www.linkedin.com/in/lovre-d%C5%BEaja-102062233/" target="blank">my LinkedIn</a>
 
 - ⚡ Fun fact **I enjoy creating awesome Web applications, and meeting new more skilled developers for a chance to learn more about tech world!**
